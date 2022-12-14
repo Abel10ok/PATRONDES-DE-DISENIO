@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PATRONES-DE-DISENIO.iml" filepath="$PROJECT_DIR$/.idea/PATRONES-DE-DISENIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patrones_d_disenio/patrones_d_disenio.iml" filepath="$PROJECT_DIR$/patrones_d_disenio/patrones_d_disenio.iml" />
+    </modules>
+  </component>
+</project>
