@@ -23,6 +23,11 @@ public class Taxi implements Vehiculo {
 		return codigoTaxi;
 	}
 
+	@Override
+	public void codigoDeVehiculo() {
+		JOptionPane.showMessageDialog(null,"El Codigo del Taxi es : "+getCodigo());
+	}
+
 	public int getCodigo() {
 		return codigo;
 	}
@@ -31,9 +36,6 @@ public class Taxi implements Vehiculo {
 		this.codigo = codigo;
 	}
 
-	@Override
-	public void codigoDeVehiculo() {
-		JOptionPane.showMessageDialog(null,"El Codigo del Taxi es : "+getCodigo());
-	}
+
 
 }
